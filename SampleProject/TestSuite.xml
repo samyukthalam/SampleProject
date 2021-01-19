@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite1" verbose="1">
+	<test name="TestSuite1Tests">
+		<classes>
+			<class name="FirstTest.BaseSuiteFile" />
+		</classes>
+	</test>
+</suite>
